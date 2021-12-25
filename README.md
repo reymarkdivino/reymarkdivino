@@ -6,7 +6,7 @@
 
 > Keep learning and coding.
 
-🇵🇭 Manila, Philippines・🚀 Back End Engineer | Information Security Researcher
+🇵🇭 Manila, Philippines・🚀 PHP software developer | Information Security Researcher
 
 Creator of [@emblaze8-framework](https://github.com/emblaze8) - A PHP framework for web sorcerers.
 
