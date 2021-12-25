@@ -8,7 +8,7 @@
 
 🇵🇭 Manila, Philippines・🚀 Back End Engineer | Information Security Researcher
 
-Creator of [@emblaze-framework](https://github.com/emblaze-framework) - A PHP framework for web sorcerers
+Creator of [@emblaze8-framework](https://github.com/emblaze8) - A PHP framework for web sorcerers.
 
 [reymarkdivino.com](https://www.reymarkdivino.com/) | [Hackerone @r3y](https://hackerone.com/r3y/resume)
 
