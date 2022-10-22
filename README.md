@@ -12,4 +12,4 @@ Creator of [@emblaze8](https://github.com/emblaze8) - A PHP framework for web so
 
 [reymarkdivino.info](https://reymarkdivino.info/) | [Hackerone @r3y](https://hackerone.com/r3y/resume)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reymarkdivino&layout=compact&hide_title=false)](https://wakatime.com/share/@reymarkdivino/1a8e09e3-5101-4589-a5c2-98879de974e4.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reymarkdivino&layout=compact&hide_title=false)](https://wakatime.com/share/@reymarkdivino/bcd77f7e-98f4-45a4-a31c-57ac6758f121.svg)
