@@ -6,6 +6,6 @@
 
 Creator of [@emblaze8](https://github.com/emblaze8) - A PHP framework for web sorcerers.
 
-[reymarkdivino.info](https://reymarkdivino.info/) | [Hackerone @r3y](https://hackerone.com/r3y?type=user)
+[Hackerone @r3y](https://hackerone.com/r3y?type=user)
 
 [![reymarkdivino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reymarkdivino)](https://github.com/reymarkdivino/github-readme-stats)
